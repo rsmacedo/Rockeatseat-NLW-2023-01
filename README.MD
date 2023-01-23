@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que visa ajudar o rasteamento de hábitos.
 
-- [Visite o projeto online] (https://diordandev.github.io/NLW-Habits/)
+- [Visite o projeto online] (https://rsmacedo.github.io/Rockeatseat-NLW-2023-01/)
 
 ## 🔖 Layout
 
